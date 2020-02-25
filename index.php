@@ -137,7 +137,7 @@ function makeLink($value) {
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>ひとこと掲示板</title>
 
-	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="css/style.css" />
 </head>
 
 <body>
